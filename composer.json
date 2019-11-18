@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "2.6.*"
+        "krbotman/botman": "2.6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0|^8.0",
