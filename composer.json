@@ -1,5 +1,5 @@
 {
-    "name": "krbotman/botman-driver-line",
+    "name": "krbotman/driver-line",
     "license": "MIT",
     "description": "LINE driver for BotMan",
     "keywords": [
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "krbotman/botman": "~3.0"
+        "krbotman/botman": "2.6.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0|^8.0",
